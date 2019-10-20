@@ -12,7 +12,7 @@ A simple file sharing app that works on HTTP using client-server architecture
 ## CREATE A LOCAL AREA NETWORK(LAN)
 1. Just connect to a single router from all the devices you want to share files between
 
-##SETUP THE SERVER
+## SETUP THE SERVER
 1. Run command "npm start" from the project root
 2. Now the PC that executed the above command is configured as the server
 3. Note down the IP address of the server (Hint: Just ask the OS what it is)
