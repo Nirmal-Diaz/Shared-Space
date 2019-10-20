@@ -1,0 +1,114 @@
+{
+    "audioExtensions": {
+        ".mp3": {
+            "fileType": "Audio file",
+            "mimeType": "audio/mp3",
+            "iconPath": "ImageRes/Audio_FileIcon.png"
+        },
+        ".wav": {
+            "fileType": "Audio file",
+            "mimeType": "audio/wav",
+            "iconPath": "ImageRes/Audio_FileIcon.png"
+        }
+    },
+    "imageExtensions": {
+        ".jpeg": {
+            "fileType": "Image file",
+            "mimeType": "image/jpeg",
+            "iconPath": "ImageRes/Image_FileIcon.png"
+        },
+        ".jpg": {
+            "fileType": "Image file",
+            "mimeType": "image/jpeg",
+            "iconPath": "ImageRes/Image_FileIcon.png"
+        },
+        ".gif": {
+            "fileType": "Image file",
+            "mimeType": "image/gif",
+            "iconPath": "ImageRes/Image_FileIcon.png"
+        },
+        ".png": {
+            "fileType": "Image file",
+            "mimeType": "image/png",
+            "iconPath": "ImageRes/Image_FileIcon.png"
+        },
+        ".bmp": {
+            "fileType": "Image file",
+            "mimeType": "image/bmp",
+            "iconPath": "ImageRes/Image_FileIcon.png"
+        },
+        ".ico": {
+            "fileType": "Image file",
+            "mimeType": "image/x-icon",
+            "iconPath": "ImageRes/Image_FileIcon.png"
+        }
+    },
+    "videoExtensions": {
+        ".mp4": {
+            "fileType": "Video file",
+            "mimeType": "video/mp4",
+            "iconPath": "ImageRes/Video_FileIcon.png"
+        },
+        ".webm": {
+            "fileType": "Video file",
+            "mimeType": "video/webm",
+            "iconPath": "ImageRes/Video_FileIcon.png"
+        }
+    },
+    "containerExtensions": {
+        ".ogg": {
+            "fileType": "Container file",
+            "mimeType": "audio/ogg video/ogg",
+            "iconPath": "ImageRes/Container_FileIcon.png"
+        }
+    },
+    "textExtensions": {
+        ".html": {
+            "fileType": "Markup file",
+            "mimeType": "text/html",
+            "iconPath": "ImageRes/Text_FileIcon.png"
+        },
+        ".css": {
+            "fileType": "Style file",
+            "mimeType": "text/css",
+            "iconPath": "ImageRes/Text_FileIcon.png"
+        },
+        ".js": {
+            "fileType": "Activity file",
+            "mimeType": "application/javascript",
+            "iconPath": "ImageRes/Text_FileIcon.png"
+        },
+        ".json": {
+            "fileType": "Settings file",
+            "mimeType": "application/json",
+            "iconPath": "ImageRes/Text_FileIcon.png"
+        },
+        ".php": {
+            "fileType": "Activity file",
+            "mimeType": "text/php",
+            "iconPath": "ImageRes/Text_FileIcon.png"
+        },
+        ".txt": {
+            "fileType": "Plain text file",
+            "mimeType": "text/plain",
+            "iconPath": "ImageRes/Text_FileIcon.png"
+        },
+        ".vtt": {
+            "fileType": "Subtitle file",
+            "mimeType": "text/vtt",
+            "iconPath": "ImageRes/Text_FileIcon.png"
+        }
+    },
+    "unknownExtensions": {
+        "unknownExtension": {
+            "fileType": "Unknown file",
+            "mimeType": "application/octet-stream",
+            "iconPath": "ImageRes/Default_FileIcon.png"
+        }
+    },    
+    "directory": {
+        "fileType": "Directory",
+        "mimeType": "",
+        "iconPath": "ImageRes/Default_DirectoryIcon.png"
+    }
+}
